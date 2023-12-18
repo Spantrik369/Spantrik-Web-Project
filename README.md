@@ -1,1 +1,0 @@
-# Spantrik-Web-Project
